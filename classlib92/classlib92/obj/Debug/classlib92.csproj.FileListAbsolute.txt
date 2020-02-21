@@ -1,0 +1,6 @@
+c:\users\admin\source\repos\classlib92\classlib92\bin\Debug\classlib92.exe.config
+c:\users\admin\source\repos\classlib92\classlib92\bin\Debug\classlib92.exe
+c:\users\admin\source\repos\classlib92\classlib92\bin\Debug\classlib92.pdb
+c:\users\admin\source\repos\classlib92\classlib92\obj\Debug\classlib92.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\classlib92\classlib92\obj\Debug\classlib92.exe
+c:\users\admin\source\repos\classlib92\classlib92\obj\Debug\classlib92.pdb

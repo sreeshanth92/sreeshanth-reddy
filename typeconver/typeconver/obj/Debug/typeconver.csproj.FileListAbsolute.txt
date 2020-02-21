@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\typeconver\typeconver\bin\Debug\typeconver.exe.config
+c:\users\admin\source\repos\typeconver\typeconver\bin\Debug\typeconver.exe
+c:\users\admin\source\repos\typeconver\typeconver\bin\Debug\typeconver.pdb
+c:\users\admin\source\repos\typeconver\typeconver\obj\Debug\typeconver.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\typeconver\typeconver\obj\Debug\typeconver.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\typeconver\typeconver\obj\Debug\typeconver.exe
+c:\users\admin\source\repos\typeconver\typeconver\obj\Debug\typeconver.pdb

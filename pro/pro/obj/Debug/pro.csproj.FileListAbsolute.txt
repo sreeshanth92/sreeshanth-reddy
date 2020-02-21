@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\pro\pro\obj\Debug\pro.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\pro\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\pro\pro\bin\Debug\pro.exe.config
+c:\users\admin\source\repos\pro\pro\bin\Debug\pro.exe
+c:\users\admin\source\repos\pro\pro\bin\Debug\pro.pdb
+c:\users\admin\source\repos\pro\pro\obj\Debug\pro.exe
+c:\users\admin\source\repos\pro\pro\obj\Debug\pro.pdb

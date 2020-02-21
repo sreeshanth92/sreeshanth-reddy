@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\codetask\codetask\bin\Debug\codetask.exe.config
+C:\Users\Admin\source\repos\codetask\codetask\bin\Debug\codetask.exe
+C:\Users\Admin\source\repos\codetask\codetask\bin\Debug\codetask.pdb
+C:\Users\Admin\source\repos\codetask\codetask\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\codetask\codetask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\codetask\codetask\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\codetask\codetask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\codetask\codetask\obj\Debug\codetask.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\codetask\codetask\obj\Debug\codetask.csproj.CopyComplete
+C:\Users\Admin\source\repos\codetask\codetask\obj\Debug\codetask.exe
+C:\Users\Admin\source\repos\codetask\codetask\obj\Debug\codetask.pdb
+C:\Users\Admin\source\repos\codetask\codetask\obj\Debug\codetask.Migrations.createname.resources
+C:\Users\Admin\source\repos\codetask\codetask\obj\Debug\codetask.csproj.GenerateResource.cache

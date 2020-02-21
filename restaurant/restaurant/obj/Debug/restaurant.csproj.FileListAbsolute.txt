@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\restaurant\restaurant\obj\Debug\restaurant.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\restaurant\restaurant\obj\Debug\restaurant.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\restaurant\restaurant\bin\Debug\restaurant.exe.config
+c:\users\admin\source\repos\restaurant\restaurant\bin\Debug\restaurant.exe
+c:\users\admin\source\repos\restaurant\restaurant\bin\Debug\restaurant.pdb
+c:\users\admin\source\repos\restaurant\restaurant\obj\Debug\restaurant.exe
+c:\users\admin\source\repos\restaurant\restaurant\obj\Debug\restaurant.pdb

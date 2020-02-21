@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\codefirst\codefirst\obj\Debug\codefirst.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\codefirst\codefirst\bin\Debug\codefirst.exe.config
+C:\Users\Admin\source\repos\codefirst\codefirst\bin\Debug\codefirst.exe
+C:\Users\Admin\source\repos\codefirst\codefirst\bin\Debug\codefirst.pdb
+C:\Users\Admin\source\repos\codefirst\codefirst\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\codefirst\codefirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\codefirst\codefirst\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\codefirst\codefirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\codefirst\codefirst\obj\Debug\codefirst.csproj.CopyComplete
+C:\Users\Admin\source\repos\codefirst\codefirst\obj\Debug\codefirst.exe
+C:\Users\Admin\source\repos\codefirst\codefirst\obj\Debug\codefirst.pdb
+C:\Users\Admin\source\repos\codefirst\codefirst\obj\Debug\codefirst.Migrations.createcustomer.resources
+C:\Users\Admin\source\repos\codefirst\codefirst\obj\Debug\codefirst.csproj.GenerateResource.cache

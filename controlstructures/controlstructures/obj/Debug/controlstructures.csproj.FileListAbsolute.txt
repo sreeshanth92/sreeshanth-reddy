@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\controlstructures\controlstructures\bin\Debug\controlstructures.exe.config
+C:\Users\Admin\source\repos\controlstructures\controlstructures\bin\Debug\controlstructures.exe
+C:\Users\Admin\source\repos\controlstructures\controlstructures\bin\Debug\controlstructures.pdb
+C:\Users\Admin\source\repos\controlstructures\controlstructures\obj\Debug\controlstructures.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\controlstructures\controlstructures\obj\Debug\controlstructures.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\controlstructures\controlstructures\obj\Debug\controlstructures.exe
+C:\Users\Admin\source\repos\controlstructures\controlstructures\obj\Debug\controlstructures.pdb

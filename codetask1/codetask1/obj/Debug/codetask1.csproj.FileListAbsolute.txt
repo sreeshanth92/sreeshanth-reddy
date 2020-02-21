@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\codetask1\codetask1\bin\Debug\codetask1.exe.config
+C:\Users\Admin\source\repos\codetask1\codetask1\bin\Debug\codetask1.exe
+C:\Users\Admin\source\repos\codetask1\codetask1\bin\Debug\codetask1.pdb
+C:\Users\Admin\source\repos\codetask1\codetask1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\codetask1\codetask1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\codetask1\codetask1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\codetask1\codetask1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\codetask1\codetask1\obj\Debug\codetask1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\codetask1\codetask1\obj\Debug\codetask1.csproj.CopyComplete
+C:\Users\Admin\source\repos\codetask1\codetask1\obj\Debug\codetask1.exe
+C:\Users\Admin\source\repos\codetask1\codetask1\obj\Debug\codetask1.pdb
+C:\Users\Admin\source\repos\codetask1\codetask1\obj\Debug\codetask1.Migrations.createcustomer.resources
+C:\Users\Admin\source\repos\codetask1\codetask1\obj\Debug\codetask1.csproj.GenerateResource.cache

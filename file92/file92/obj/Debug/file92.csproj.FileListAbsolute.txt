@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\file92\file92\bin\Debug\file92.exe.config
+C:\Users\Admin\source\repos\file92\file92\bin\Debug\file92.exe
+C:\Users\Admin\source\repos\file92\file92\bin\Debug\file92.pdb
+C:\Users\Admin\source\repos\file92\file92\obj\Debug\file92.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\file92\file92\obj\Debug\file92.exe
+C:\Users\Admin\source\repos\file92\file92\obj\Debug\file92.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\streamreader\streamreader\obj\Debug\streamreader.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\streamreader\streamreader\obj\Debug\streamreader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\streamreader\streamreader\bin\Debug\streamreader.exe.config
+C:\Users\Admin\source\repos\streamreader\streamreader\bin\Debug\streamreader.exe
+C:\Users\Admin\source\repos\streamreader\streamreader\bin\Debug\streamreader.pdb
+C:\Users\Admin\source\repos\streamreader\streamreader\obj\Debug\streamreader.exe
+C:\Users\Admin\source\repos\streamreader\streamreader\obj\Debug\streamreader.pdb

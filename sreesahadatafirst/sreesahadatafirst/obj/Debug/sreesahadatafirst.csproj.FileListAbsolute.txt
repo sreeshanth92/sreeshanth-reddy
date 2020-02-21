@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\sreesahadatafirst\sreesahadatafirst\obj\Debug\sreesahadatafirst.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\sreesahadatafirst\sreesahadatafirst\bin\Debug\sreesahadatafirst.exe.config
+C:\Users\Admin\source\repos\sreesahadatafirst\sreesahadatafirst\bin\Debug\sreesahadatafirst.exe
+C:\Users\Admin\source\repos\sreesahadatafirst\sreesahadatafirst\bin\Debug\sreesahadatafirst.pdb
+C:\Users\Admin\source\repos\sreesahadatafirst\sreesahadatafirst\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\sreesahadatafirst\sreesahadatafirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\sreesahadatafirst\sreesahadatafirst\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\sreesahadatafirst\sreesahadatafirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\sreesahadatafirst\sreesahadatafirst\obj\Debug\sreesahadatafirst.csproj.CopyComplete
+C:\Users\Admin\source\repos\sreesahadatafirst\sreesahadatafirst\obj\Debug\sreesahadatafirst.exe
+C:\Users\Admin\source\repos\sreesahadatafirst\sreesahadatafirst\obj\Debug\sreesahadatafirst.pdb

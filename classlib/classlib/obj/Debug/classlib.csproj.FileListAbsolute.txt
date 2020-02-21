@@ -1,0 +1,9 @@
+c:\users\admin\source\repos\classlib\classlib\bin\Debug\classlib.exe.config
+c:\users\admin\source\repos\classlib\classlib\bin\Debug\classlib.exe
+c:\users\admin\source\repos\classlib\classlib\bin\Debug\classlib.pdb
+c:\users\admin\source\repos\classlib\classlib\bin\Debug\ClassLibrary1.dll
+c:\users\admin\source\repos\classlib\classlib\bin\Debug\ClassLibrary1.pdb
+c:\users\admin\source\repos\classlib\classlib\obj\Debug\classlib.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\classlib\classlib\obj\Debug\classlib.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\classlib\classlib\obj\Debug\classlib.exe
+c:\users\admin\source\repos\classlib\classlib\obj\Debug\classlib.pdb

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\codenani\codenani\bin\Debug\codenani.exe.config
+C:\Users\Admin\source\repos\codenani\codenani\bin\Debug\codenani.exe
+C:\Users\Admin\source\repos\codenani\codenani\bin\Debug\codenani.pdb
+C:\Users\Admin\source\repos\codenani\codenani\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\codenani\codenani\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\codenani\codenani\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\codenani\codenani\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\codenani\codenani\obj\Debug\codenani.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\codenani\codenani\obj\Debug\codenani.csproj.CopyComplete
+C:\Users\Admin\source\repos\codenani\codenani\obj\Debug\codenani.exe
+C:\Users\Admin\source\repos\codenani\codenani\obj\Debug\codenani.pdb
+C:\Users\Admin\source\repos\codenani\codenani\obj\Debug\codenani.Migrations.createemployee.resources
+C:\Users\Admin\source\repos\codenani\codenani\obj\Debug\codenani.csproj.GenerateResource.cache

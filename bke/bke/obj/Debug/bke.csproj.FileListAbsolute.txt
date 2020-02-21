@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\bke\bke\obj\Debug\bke.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\bke\bke\obj\Debug\bke.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bke\bke\bin\Debug\bke.exe.config
+C:\Users\Admin\source\repos\bke\bke\bin\Debug\bke.exe
+C:\Users\Admin\source\repos\bke\bke\bin\Debug\bke.pdb
+C:\Users\Admin\source\repos\bke\bke\obj\Debug\bke.exe
+C:\Users\Admin\source\repos\bke\bke\obj\Debug\bke.pdb

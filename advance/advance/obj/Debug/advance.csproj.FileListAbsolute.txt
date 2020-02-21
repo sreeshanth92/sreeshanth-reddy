@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\advance\advance\bin\Debug\advance.exe.config
+C:\Users\Admin\source\repos\advance\advance\bin\Debug\advance.exe
+C:\Users\Admin\source\repos\advance\advance\bin\Debug\advance.pdb
+C:\Users\Admin\source\repos\advance\advance\obj\Debug\advance.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\advance\advance\obj\Debug\advance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\advance\advance\obj\Debug\advance.exe
+C:\Users\Admin\source\repos\advance\advance\obj\Debug\advance.pdb

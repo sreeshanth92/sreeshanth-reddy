@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="sreemodelStoreContainer" CdmEntityContainer="sreemodelContainer">
+    <EntitySetMapping Name="banks">
+      <EntityTypeMapping TypeName="IsTypeOf(sreemodel.bank)">
+        <MappingFragment StoreEntitySet="banks">
+          <ScalarProperty Name="bid" ColumnName="bid" />
+          <ScalarProperty Name="cid" ColumnName="cid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="customers">
+      <EntityTypeMapping TypeName="IsTypeOf(sreemodel.customer)">
+        <MappingFragment StoreEntitySet="customers">
+          <ScalarProperty Name="cid" ColumnName="cid" />
+          <ScalarProperty Name="cname" ColumnName="cname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

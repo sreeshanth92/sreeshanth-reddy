@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="sreemodel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="sreemodelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="banks" EntityType="sreemodel.bank" />
+    <EntitySet Name="customers" EntityType="sreemodel.customer" />
+    <AssociationSet Name="FK__banks__cid__267ABA7A" Association="sreemodel.FK__banks__cid__267ABA7A">
+      <End Role="customer" EntitySet="customers" />
+      <End Role="bank" EntitySet="banks" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="bank">
+    <Key>
+      <PropertyRef Name="bid" />
+    </Key>
+    <Property Name="bid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="cid" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="customer" Relationship="sreemodel.FK__banks__cid__267ABA7A" FromRole="bank" ToRole="customer" />
+  </EntityType>
+  <EntityType Name="customer">
+    <Key>
+      <PropertyRef Name="cid" />
+    </Key>
+    <Property Name="cid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="cname" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="banks" Relationship="sreemodel.FK__banks__cid__267ABA7A" FromRole="customer" ToRole="bank" />
+  </EntityType>
+  <Association Name="FK__banks__cid__267ABA7A">
+    <End Type="sreemodel.customer" Role="customer" Multiplicity="1" />
+    <End Type="sreemodel.bank" Role="bank" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="customer">
+        <PropertyRef Name="cid" />
+      </Principal>
+      <Dependent Role="bank">
+        <PropertyRef Name="cid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

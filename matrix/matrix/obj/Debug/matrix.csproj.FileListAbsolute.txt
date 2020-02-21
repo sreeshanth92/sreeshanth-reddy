@@ -1,0 +1,6 @@
+c:\users\admin\source\repos\matrix\matrix\bin\Debug\matrix.exe.config
+c:\users\admin\source\repos\matrix\matrix\bin\Debug\matrix.exe
+c:\users\admin\source\repos\matrix\matrix\bin\Debug\matrix.pdb
+c:\users\admin\source\repos\matrix\matrix\obj\Debug\matrix.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\matrix\matrix\obj\Debug\matrix.exe
+c:\users\admin\source\repos\matrix\matrix\obj\Debug\matrix.pdb

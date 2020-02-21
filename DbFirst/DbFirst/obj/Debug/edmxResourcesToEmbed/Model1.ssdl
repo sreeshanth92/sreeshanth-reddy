@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EMPLOYEEDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DEPARTMENT">
+    <Key>
+      <PropertyRef Name="DEPID" />
+    </Key>
+    <Property Name="DEPID" Type="int" Nullable="false" />
+    <Property Name="DEPNAME" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="DESCRIPION" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Eid" />
+    </Key>
+    <Property Name="Eid" Type="nchar" MaxLength="5" Nullable="false" />
+    <Property Name="Ename" Type="varchar(max)" Nullable="false" />
+    <Property Name="Designation" Type="varchar" MaxLength="200" />
+    <Property Name="Did" Type="nchar" MaxLength="5" />
+  </EntityType>
+  <EntityContainer Name="EMPLOYEEDBModelStoreContainer">
+    <EntitySet Name="DEPARTMENT" EntityType="Self.DEPARTMENT" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employee" EntityType="Self.Employee" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

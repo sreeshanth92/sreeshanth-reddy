@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\arrayindex\arrayindex\bin\Debug\arrayindex.exe.config
+C:\Users\Admin\source\repos\arrayindex\arrayindex\bin\Debug\arrayindex.exe
+C:\Users\Admin\source\repos\arrayindex\arrayindex\bin\Debug\arrayindex.pdb
+C:\Users\Admin\source\repos\arrayindex\arrayindex\obj\Debug\arrayindex.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\arrayindex\arrayindex\obj\Debug\arrayindex.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\arrayindex\arrayindex\obj\Debug\arrayindex.exe
+C:\Users\Admin\source\repos\arrayindex\arrayindex\obj\Debug\arrayindex.pdb

@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\scope\scope\bin\Debug\scope.exe.config
+c:\users\admin\source\repos\scope\scope\bin\Debug\scope.exe
+c:\users\admin\source\repos\scope\scope\bin\Debug\scope.pdb
+c:\users\admin\source\repos\scope\scope\obj\Debug\scope.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\scope\scope\obj\Debug\scope.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\scope\scope\obj\Debug\scope.exe
+c:\users\admin\source\repos\scope\scope\obj\Debug\scope.pdb
